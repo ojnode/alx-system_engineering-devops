@@ -5,3 +5,6 @@
 3. cd script to change to home directory
 
 4. ls -l script to display current directroy in long format
+
+5. ls -la script to display all files in current direcctory including hidden file
+
