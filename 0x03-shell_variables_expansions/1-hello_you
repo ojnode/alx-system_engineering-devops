@@ -1,2 +1,2 @@
 #!/bin/bash
-Hello $(id -un)
+echo Hello $(id -un)
